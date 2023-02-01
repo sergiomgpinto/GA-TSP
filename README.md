@@ -3,4 +3,4 @@ The 2022–2023 project assignment for the Genetic Algorithms and Evolutionary C
 
 # Genetic algorithm design
 
-<img src=ga_diagram.png height=200 width=200>
+![Diagram](ga_design.png)
