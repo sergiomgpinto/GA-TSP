@@ -4,3 +4,10 @@ The 2022–2023 project assignment for the Genetic Algorithms and Evolutionary C
 # Genetic algorithm design
 
 ![Diagram](ga_design.png)
+
+## Built With
+
+- [Numba](https://numba.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Python version 3.10](https://www.python.org/downloads/release/python-3100/)
+
